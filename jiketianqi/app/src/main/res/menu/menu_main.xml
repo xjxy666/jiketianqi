@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/item1"
+            android:title="切换城市"
+            android:icon="@mipmap/baoma"
+            ></item>
+
+       <item
+           android:id="@+id/item2"
+           android:title="历史天气"
+           android:icon="@mipmap/lanqiu"
+           ></item>
+
+        <item
+            android:id="@+id/item3"
+            android:title="支持我们"
+            android:icon="@mipmap/txu"
+            ></item>
+
+        <item
+            android:id="@+id/item4"
+            android:title="我的设置"
+            android:icon="@mipmap/sun"
+            ></item>
+
+</menu>
