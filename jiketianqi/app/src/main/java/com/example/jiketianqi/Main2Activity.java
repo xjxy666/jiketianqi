@@ -28,7 +28,7 @@ public class Main2Activity extends AppCompatActivity {
         toolbar=findViewById(R.id.toolbar);
         toolbar.setLogo(R.mipmap.ic_launcher_round);
         toolbar.setTitle("极客天气");
-        toolbar.setSubtitle("开发者：王宇、夏瑜、白熔、张证谱");
+        toolbar.setSubtitle("开发者");
         toolbar.setNavigationIcon(R.mipmap.ic_launcher);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
